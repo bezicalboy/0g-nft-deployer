@@ -28,7 +28,7 @@ except Exception as e:
 
 # --- NAME GENERATION LISTS ---
 ADJECTIVES = [
-    "Crystal", "Shadow", "Solar", "Lunar", "Arcane", "Forgotten", "Glimmering",
+    "Bahlil", "Jokowi", "Prabowo", "SPBU", "Icikiwir", "Forgotten", "Glimmering",
     "Storm", "Iron", "Ethereal", "Whispering", "Ancient", "Cursed", "Crimson",
     "Void", "Astral", "Frozen", "Living", "Fallen", "Sacred", "Corrupted"
 ]
